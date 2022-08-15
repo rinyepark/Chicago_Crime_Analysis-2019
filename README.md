@@ -1,7 +1,7 @@
 # Chicago Crime Analysis(시카고 범죄 데이터 분석)
 <img src = "https://user-images.githubusercontent.com/109687076/184565480-f8e88330-a578-4f1f-baed-72a8794a5787.JPG" width="70%" height="70%">  
 
-[영상](https://drive.google.com/file/d/1bzuLdR0zJqIcFuMt-qU5QcYd785LqDHU/view?usp=sharing)/[관련자료](http://yerin.creatorlink.net/%EB%B2%94%EC%A3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)  
+[분석결과영상](https://drive.google.com/file/d/1bzuLdR0zJqIcFuMt-qU5QcYd785LqDHU/view?usp=sharing)/[전체자료](http://yerin.creatorlink.net/%EB%B2%94%EC%A3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)  
 
 ## 1.Duration
 - 2019.09 ~ 2019.12
